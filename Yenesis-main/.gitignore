@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__
+log
+venv
+venv/*
+stock_alert.py
+*.png
+.log
